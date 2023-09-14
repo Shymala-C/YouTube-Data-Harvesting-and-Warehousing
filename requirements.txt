@@ -1,1 +1,7 @@
-streamlit
+- [Python](https://www.python.org/)
+- [MongoDB](https://www.mongodb.com/atlas/database)
+- [MySQL](https://www.mysql.com/)
+- [YouTube Data API](https://developers.google.com/youtube/v3)
+- [Streamlit](https://docs.streamlit.io/library/api-reference)
+- [Pandas](https://pandas.pydata.org/)
+- [Plotly](https://plotly.com/python/)
